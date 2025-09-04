@@ -1,0 +1,6 @@
+A,B = map(int, input().strip().split())
+print("{}".format(A+B))
+print("{}".format(A-B))
+print("{}".format(A*B))
+print("{}".format(int(A/B)))
+print("{}".format(A%B))
